@@ -3,7 +3,7 @@
 O projeto FizzBuzz faz alterações em uma lista de números, contida em um arquivo de texto, da seguinte forma:
 
  1. Número múltiplo de 3, substituir por fizz,
- - Número múltiplo de 5, substituir por buzz,
+ 2. Número múltiplo de 5, substituir por buzz,
  - Número múltiplo de 3 e 5, substituir por fizzbuzz,
  - Nem múltiplo de 3 ou 5, repetir.
 
