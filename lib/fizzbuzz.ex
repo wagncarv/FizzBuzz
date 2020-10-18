@@ -1,5 +1,16 @@
 defmodule Fizzbuzz do
-  #  Fizzbuzz.build("numbers.txt")
+
+  @doc """
+    Lê números contidos no arquivo especificado e os formata. Múltiplos de 3 serão substituídos por
+    *fizz*, de 5, *buzz*, 3 e 5, *fizzbuzz*. Retorna nova lista.
+    ```
+    Exemplo
+      numbers = 0,1,2,3,4,5,6,7,8,9
+      iex> Fizzbuzz.build("numbers.txt")
+      {:ok, [:fizzbuzz, 1, 2, :fizz, 4, :buzz, :fizz, 7, 8, :fizz]}
+
+  ```
+  """
   def build(file_name) do
     file_name
     |> File.read()
