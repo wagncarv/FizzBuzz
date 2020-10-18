@@ -18,7 +18,7 @@ Este módulo aplica vários conceitos da linguagem ```Elixir```, como pattern ma
  ```
 
 ## Baixar projeto
-Para clonar o projeto via git, é necessário ter instalado e configurado o *-git-* na sua máquina.
+Para clonar o projeto via git, é necessário ter instalado e configurado o ***git*** na sua máquina.
 ```git
  git clone https://github.com/wagncarv/FizzBuzz.git
 ```
