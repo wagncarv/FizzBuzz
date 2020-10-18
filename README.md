@@ -1,6 +1,6 @@
 > # Fizzbuzz
 
-O projeto FizzBuzz faz alterações em uma lista de números, contida em um arquivo de texto, da seguinte forma:
+O projeto **FizzBuzz** faz alterações em uma lista de números, contida em um arquivo de texto, da seguinte forma:
 
  1. Número múltiplo de 3, substituir por fizz,
  2. Número múltiplo de 5, substituir por buzz,
