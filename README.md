@@ -5,7 +5,7 @@ O projeto **FizzBuzz** faz alterações em uma lista de números, contida em um 
  - Números múltiplos de 3, substituir por *fizz*,
  - Números múltiplos de 5, substituir por *buzz*,
  - Números múltiplos de 3 e 5, substituir por *fizzbuzz*,
- - Nem múltiplos de 3 ou 5, repetir.
+ - Nem múltiplos de 3 ou 5, repeti-los.
 
 Este módulo aplica vários conceitos da linguagem ```Elixir```, como pattern matching, guards, testes de funções e sintaxe da linguagem.
 
