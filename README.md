@@ -4,8 +4,8 @@ O projeto FizzBuzz faz alterações em uma lista de números, contida em um arqu
 
  1. Número múltiplo de 3, substituir por fizz,
  2. Número múltiplo de 5, substituir por buzz,
- - Número múltiplo de 3 e 5, substituir por fizzbuzz,
- - Nem múltiplo de 3 ou 5, repetir.
+ 3. Número múltiplo de 3 e 5, substituir por fizzbuzz,
+ 4. Nem múltiplo de 3 ou 5, repetir.
 
 
 Este módulo aplica vários conceitos da linguagem ```Elixir```, como pattern matching, guards, testes de funções e sintaxe da linguagem.
